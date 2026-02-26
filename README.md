@@ -114,3 +114,6 @@ Customer Lifetime Value & RFM modeling
 Cross-selling & Market Basket Analysis
 Interactive dashboarding in Power BI
 End-to-end storytelling for business stakeholders
+
+THE SCREENSHOTS ARE AVAILABLE FOR POWER BI .FILE NOT UPLOADED DUR TO LARGE SIZE.
+CAN BE SHARE ON REQUEST
