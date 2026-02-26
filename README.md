@@ -1,4 +1,4 @@
-# MARKETING-
+# Marketing Analytics for E-Commerce Marketplace | using **Python • SQL • Power BI • Excel**
 END TO END MARKETING ANALYTICS PROJECT
 # 🛒 Marketing Analytics for E-Commerce Marketplace | Capstone Project
 
