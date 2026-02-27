@@ -4,7 +4,7 @@ END TO END MARKETING ANALYTICS PROJECT
 
 **End-to-End Data Analytics Project** using **Python • SQL • Power BI • Excel**
 
----
+---https://github.com/amaan20002023-sketch/MARKETING-/blob/main/README.md
 
 ## 📋 Project Overview
 
@@ -116,4 +116,5 @@ Interactive dashboarding in Power BI
 End-to-end storytelling for business stakeholders
 
 THE SCREENSHOTS ARE AVAILABLE FOR POWER BI .FILE NOT UPLOADED DUR TO LARGE SIZE.
-CAN BE SHARE ON REQUEST
+CAN BE SHARE ON REQUEST.EXCEL FILE NAME AS CAPSTONE_EXCEL IS ZIP JUST DOWNLOAD
+AND VIEW ALL ANALYSIS
